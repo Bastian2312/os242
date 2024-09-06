@@ -4,5 +4,6 @@
 ZCZC W00 20 L00 General, etc.
 ZCZC W00 10 L01 QUIZ
 ZCZC W01 120 L02 GitHub related
-ZCZC W01 30 L03 Weekly Assignments
+ZCZC W01 60 L03 Weekly Assignments
 ZCZC W01 50 L04 Studying OS
+ZCZC W01 100 L05 CLASSROOM/ZOOM meetings related
