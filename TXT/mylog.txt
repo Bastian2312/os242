@@ -10,3 +10,5 @@ ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 30 L05 QUIZ W01
 ZCZC W01 20 L00 General
 ZCZC W02 120 L12 Weekly Assignments
+ZCZC W02 20 L00 General
+ZCZC W02 20 L03 GitHub related
