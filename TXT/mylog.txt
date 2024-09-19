@@ -26,3 +26,11 @@ ZCZC W02 30 L03 GitHub and git related
 ZCZC W02 50 L32 YouTube: watching OS related topics
 ZCZC W02 20 L27 SSH
 ZCZC W02 25 L05 QUIZ W02
+ZCZC W03 120 L13 Weekly Assignments
+ZCZC W03 20 L00 General
+ZCZC W03 20 L03 GitHub related
+ZCZC W03 100 L02 CLASSROOM meetings related
+ZCZC W03 50 L06 Studying OS
+ZCZC W03 10 L01 SCELE/Discord related
+ZCZC W03 100 L60 Backup Laptop
+ZCZC W03 100 L13 Continuing Assignments
