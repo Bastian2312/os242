@@ -15,3 +15,10 @@ This page on freeCodeCamp provides a comprehensive introduction to shell scripti
 
 ### [The Complete PGP Encryption Tutorial | Gpg4win & GnuPG](https://www.youtube.com/watch?v=CEADq-B8KtI)
 The video above is a comprehensive guide on using PGP encryption on both Windows and Linux platforms. The tutorial is designed to help users secure their communications and protect sensitive data effectively.
+
+## WEEK 03
+### [How to Backup Files and Folders in Debian-12](https://vitux.com/how-to-backup-files-and-folders-in-debian-12/)
+The article from Vitux provides a guide on how to back up files and folders in Debian 12. It explains different backup methods, including using rsync, a powerful file-copying tool, and other techniques.
+
+### [Add a New Hard Disk to a Virtual Machine](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-F4917C61-3D24-4DB9-B347-B5722A84368C.html)
+The VMware vSphere 7.0 guide explains how to add a new hard disk to a virtual machine. It covers steps for selecting the disk size, storage policies, and disk provisioning formats (e.g., thick or thin). The guide also discusses configuring disk shares, IOPs limits, and disk modes (e.g., dependent or independent).
