@@ -33,4 +33,6 @@ ZCZC W03 100 L02 CLASSROOM meetings related
 ZCZC W03 50 L06 Studying OS
 ZCZC W03 10 L01 SCELE/Discord related
 ZCZC W03 100 L60 Backup Laptop
-ZCZC W03 100 L13 Continuing Assignments
+ZCZC W03 150 L13 Continuing Assignments
+ZCZC W03 30 L24 Scripting
+ZCZC W03 50 L25 Making C file and Make file
