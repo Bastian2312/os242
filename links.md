@@ -22,3 +22,10 @@ The article from Vitux provides a guide on how to back up files and folders in D
 
 ### [Add a New Hard Disk to a Virtual Machine](https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.vm_admin.doc/GUID-F4917C61-3D24-4DB9-B347-B5722A84368C.html)
 The VMware vSphere 7.0 guide explains how to add a new hard disk to a virtual machine. It covers steps for selecting the disk size, storage policies, and disk provisioning formats (e.g., thick or thin). The guide also discusses configuring disk shares, IOPs limits, and disk modes (e.g., dependent or independent).
+
+## WEEK 04
+### [How to Securely Copy Files in Linux | scp Command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+he article on GeeksforGeeks explains the scp (secure copy) command in Linux, which is used for securely transferring files between hosts on a network. It covers the basic syntax and usage of the command, including how to copy files from a local system to a remote system, from a remote system to a local system, and between two remote systems.
+
+### [How To Set Up a Firewall with UFW on Debian 12](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/)
+this web provides a step-by-step guide on setting up a firewall using UFW (Uncomplicated Firewall) on Debian 12. It explains how to install UFW, configure it to allow essential connections like SSH, HTTP, and HTTPS, and enable it to block unauthorized traffic.
