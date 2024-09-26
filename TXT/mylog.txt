@@ -36,3 +36,12 @@ ZCZC W03 100 L60 Backup Laptop
 ZCZC W03 150 L13 Continuing Assignments
 ZCZC W03 30 L24 Scripting
 ZCZC W03 50 L25 Making C file and Make file
+ZCZC W04 60 L14 Weekly Assignments
+ZCZC W04 20 L00 General
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 100 L02 CLASSROOM meetings related
+ZCZC W04 50 L06 Studying OS
+ZCZC W04 10 L01 SCELE/Discord related
+ZCZC W04 20 L60 Backup Laptop
+ZCZC W04 120 L14 Continuing Assignments
+ZCZC W04 200 L27 SSH, key-gen, tunneling, putty, winscp
