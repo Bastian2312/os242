@@ -45,3 +45,4 @@ ZCZC W04 10 L01 SCELE/Discord related
 ZCZC W04 20 L60 Backup Laptop
 ZCZC W04 120 L14 Continuing Assignments
 ZCZC W04 200 L27 SSH, key-gen, tunneling, putty, winscp
+ZCZC W02 25 L05 QUIZ W03
