@@ -45,4 +45,14 @@ ZCZC W04 10 L01 SCELE/Discord related
 ZCZC W04 20 L60 Backup Laptop
 ZCZC W04 120 L14 Continuing Assignments
 ZCZC W04 200 L27 SSH, key-gen, tunneling, putty, winscp
-ZCZC W02 25 L05 QUIZ W03
+ZCZC W04 25 L05 QUIZ W04
+ZCZC W05 60 L15 Weekly Assignments
+ZCZC W05 20 L00 General
+ZCZC W05 20 L03 GitHub related
+ZCZC W05 100 L02 CLASSROOM meetings related
+ZCZC W05 50 L06 Studying OS
+ZCZC W05 10 L01 SCELE/Discord related
+ZCZC W05 30 L60 Backup Laptop and cloning VM
+ZCZC W05 200 L14 Continuing Assignments
+ZCZC W05 120 L25 C-language including Make
+ZCZC W05 25 L05 QUIZ W05
