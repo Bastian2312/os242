@@ -56,3 +56,11 @@ ZCZC W05 30 L60 Backup Laptop and cloning VM
 ZCZC W05 200 L14 Continuing Assignments
 ZCZC W05 120 L25 C-language including Make
 ZCZC W05 25 L05 QUIZ W05
+ZCZC W06 60 L16 Weekly Assignments
+ZCZC W06 20 L00 General
+ZCZC W06 20 L03 GitHub related
+ZCZC W06 100 L02 CLASSROOM meetings related
+ZCZC W06 50 L06 Studying OS
+ZCZC W06 10 L01 SCELE/Discord related
+ZCZC W06 30 L22 Linux Related
+ZCZC W06 200 L16 Continuing Assignments
