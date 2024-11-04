@@ -43,3 +43,10 @@ this video provides a beginner-friendly overview of Docusaurus, a tool for build
 
 ### [No Man's Sky on Mac is INSANELY GOOD!](https://www.youtube.com/watch?v=f-7f-U3Nfwg)
 this video discusses the experience of playing No Man's Sky on Mac, highlighting its impressive performance, visual quality, and smooth gameplay on Apple's hardware. It covers compatibility aspects, detailing how the game runs on M1 and M2 chip Macs and benefits from the Apple Silicon architecture.
+
+## WEEK 07
+### [The Dark Continent & Succession War Complete Recap (HXH 2024)](https://www.youtube.com/watch?v=KRFm1ajmiGc)
+The video titled "The Dark Continent & Succession War Complete Recap" provides a comprehensive overview of the "Dark Continent" arc and the "Succession War" arc from the anime and manga series Hunter x Hunter.
+
+### [5 Ways to Mod Empire at War in Under a Minute!](https://www.youtube.com/watch?v=hJt1-YfbmFU&t=336s)
+The video provides a beginner-friendly guide to modding Star Wars: Empire at War, presenting five straightforward changes anyone can implement without prior modding experience. It covers locating game files, adjusting population capacity, modifying the starting fleet size, changing fighter spawn rates, and altering default ship colors. 
