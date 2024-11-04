@@ -64,3 +64,12 @@ ZCZC W06 50 L06 Studying OS
 ZCZC W06 10 L01 SCELE/Discord related
 ZCZC W06 30 L22 Linux Related
 ZCZC W06 200 L16 Continuing Assignments
+ZCZC W07 60 L16 Weekly Assignments
+ZCZC W07 20 L00 General
+ZCZC W07 20 L03 GitHub related
+ZCZC W07 100 L02 CLASSROOM meetings related
+ZCZC W07 50 L06 Studying OS
+ZCZC W07 10 L01 SCELE/Discord related
+ZCZC W07 30 L22 Linux Related
+ZCZC W07 200 L16 Continuing Assignments
+ZCZC W07 20 L05 Doing Quiz
