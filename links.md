@@ -50,3 +50,10 @@ The video titled "The Dark Continent & Succession War Complete Recap" provides a
 
 ### [5 Ways to Mod Empire at War in Under a Minute!](https://www.youtube.com/watch?v=hJt1-YfbmFU&t=336s)
 The video provides a beginner-friendly guide to modding Star Wars: Empire at War, presenting five straightforward changes anyone can implement without prior modding experience. It covers locating game files, adjusting population capacity, modifying the starting fleet size, changing fighter spawn rates, and altering default ship colors. 
+
+## WEEK 08
+### [Lost Stars - Spoiler Free Book Review](https://www.youtube.com/watch?v=qT_rhNcxSic&t=4s)
+This video provides an in-depth review of Star Wars: Lost Stars by Claudia Gray. It explores the book's compelling characters, emotional depth, and how it connects to the broader Star Wars universe. 
+
+### [Every Unsolved HunterxHunter Mystery Explained in 20 Minutes](https://www.youtube.com/watch?v=JF4qouiJXeg)
+This video explores unresolved mysteries in Hunter x Hunter, unraveling secrets about Nen inscriptions, Hisoka's past, and the Dark Continent's legends. It dives into the hidden lore of Don Freecss's journey, Gon’s mysterious mother, Ging's untapped powers, and the tragic history of the Kurta Clan.
