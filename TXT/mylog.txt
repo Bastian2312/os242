@@ -83,4 +83,13 @@ ZCZC W08 30 L22 Linux Related
 ZCZC W08 200 L18 Continuing Assignments
 ZCZC W08 100 L18 Continuing Assignments
 ZCZC W08 20 L05 Doing Quiz
-
+ZCZC W09 60 L19 Weekly Assignments
+ZCZC W09 20 L00 General
+ZCZC W09 20 L03 GitHub related
+ZCZC W09 100 L02 CLASSROOM meetings related
+ZCZC W09 50 L06 Studying OS
+ZCZC W09 10 L01 SCELE/Discord related
+ZCZC W09 30 L22 Linux Related
+ZCZC W09 200 L19 Continuing Assignments
+ZCZC W09 100 L19 Continuing Assignments
+ZCZC W09 20 L05 Doing Quiz
