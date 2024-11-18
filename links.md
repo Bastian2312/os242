@@ -57,3 +57,10 @@ This video provides an in-depth review of Star Wars: Lost Stars by Claudia Gray.
 
 ### [Every Unsolved HunterxHunter Mystery Explained in 20 Minutes](https://www.youtube.com/watch?v=JF4qouiJXeg)
 This video explores unresolved mysteries in Hunter x Hunter, unraveling secrets about Nen inscriptions, Hisoka's past, and the Dark Continent's legends. It dives into the hidden lore of Don Freecss's journey, Gon’s mysterious mother, Ging's untapped powers, and the tragic history of the Kurta Clan.
+
+## WEEK 09
+### [8. Chapter 6: Cross-Compiling Temporary Tools - How to build Linux From Scratch (LFS) 12.0 Tutorial](https://www.youtube.com/watch?v=D_N1kQPsQEk)
+This video is a tutorial for chapter 6 of LFS 
+
+### [9. Chapter 7: Entering Chroot and Building Additional Temporary Tools - How to build Linux From Scra](https://www.youtube.com/watch?v=y8uAMEK0FVc&list=PLyc5xVO2uDsA5QPbtj_eYU8J0qrvU6315&index=10)
+This video is a tutorial for chapter 7 of LFS 
